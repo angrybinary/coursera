@@ -17,7 +17,7 @@ h2 {
 	margin-top: -6px;
 	margin-right: -6px;
 	padding: 4px 10px 4px 10px ;
-	color: #CCCCCC;
+	color: #ffdd99;
 	display: inline-block;
 	position: absolute;
 	top: 5px;
@@ -42,7 +42,7 @@ p {
 }
 
 section {
-	background: #CCCCCC;
+	background: #ffdd99;
 	border: 1px solid; 
 	margin-top: 20px;
 	margin-right: 30px;
